@@ -9,6 +9,7 @@ body {
 h1,
 h2 {
     color: darkred;
+    font-size: 30px;
 }
 
 h3, 
