@@ -16,16 +16,17 @@ h3,
 p,
 li {
     color: green; 
+    font-size:30px;
 }
 
 img {
-    width: 100%;
+    width: fit-content;
     height: auto;
     max-width: 100%;
 }
 
 main {
-    margin: 0 20%;
+    margin: 5px;
 }
 
 nav {
@@ -36,24 +37,28 @@ nav {
 }
 
 nav ul {
-    list-style-type: none;
     text-align: center;
 }
 
 nav li {
-    display: inline;
+    display: inline-block;
+    
 }
 
 nav a {
     text-decoration: none;
-    font-size: 2em;
+    font-size: 5em;
     color: green;
-    margin-right: 25px;
     text-align: center;
 }
 
 nav a:hover {
     color: darkred;
+}
+
+#about {
+    width:fit-content;
+    height:fit-content;
 }
 
 #banner {
@@ -65,6 +70,12 @@ nav a:hover {
 #banner img {
     width: 50%;
     height: auto;
+}
+
+#logo {
+    width: fit-content;
+    height: fit-content;
+    image-orientation: from-image;
 }
 
 .service {
@@ -79,14 +90,14 @@ nav a:hover {
     margin: 10px;
 }
 
-#table {
-    width: 30%;
+table {
+    width: 10%;
     height: auto;
-    background-color: white;
+    background-color: aliceblue;
 }
 
 #table img {
-    width: 30%;
+    width: 10%;
     height: auto;
 }
 table {
@@ -97,5 +108,6 @@ table {
 td,
 th {
     border: 1px solid black;
-    padding: 5px;
+    padding: 3px;
+    font-size:medium;
 }
