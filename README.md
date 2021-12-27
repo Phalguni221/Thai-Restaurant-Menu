@@ -9,6 +9,4 @@ Webpages:
 3. ABout 
 4. Menu
 
-- (H-Thai-M-L)-Chicago-IL-ThaiCuisine-![H-Thai-M-L Logo](https://github.com/Phalguni221/Thai-Restaurant-Menu/blob/main/logo.png?raw=true)
-
 
